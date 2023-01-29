@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(172, 255, 172);
+    text-align: center;
+}
+
+.title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 1000;
+    color: rgb(0, 77, 0);
+    background-color: lightgreen;
+}
+
+.list {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+    color: rgb(0, 27, 0);
+}
+
+.recipe.title {
+    
+}
+
+.ingredients {
+    text-align: left;
+}
+
+.ingredients.title {
+
+}
+
+.ingredients.list {
+
+}
+
+
+.instructions {
+    text-align: left;
+}
+.instructions.title {
+    
+}
+
+.instructions.list {
+
+}
+   
